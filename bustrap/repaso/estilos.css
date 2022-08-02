@@ -1,0 +1,17 @@
+body{
+    background-color: #d95550;
+}
+/* botones */
+.bg-boton {
+    background-color: #e27c78;
+}
+.boton-start{
+    border-bottom: 5px solid #ccc;
+    font-size: 3em;
+    color: #d95550;
+}
+/*timer*/
+.timer {
+    font-size: 7em;
+    font-weight:600;
+}
